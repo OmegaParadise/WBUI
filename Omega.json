@@ -55,7 +55,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Shop",
-				"imageurl": "https://i.imgur.com/Le9nGDd.png",
+				"imageurl": "",
 				"content": [
 					{
 						"title": "",
@@ -70,7 +70,7 @@
 				"url": "https://discord.gg/gZDdCRy2Su"
 			},
 			{
-				"text": "DONATE-SHOP",
+				"text": "SHOP",
 				"url": "https://omegaparadise.tip4serv.com/"
 			}
 		],
