@@ -29,7 +29,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Rules",
-				"imageurl": "https://i.imgur.com/H966SiM.png",
+				"imageurl": "https://i.imgur.com/ir4463H.png",
 				"content": [
 					{
 						"title": "",
@@ -54,8 +54,19 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "Shop",
+				"buttontext": "Web-Shop",
 				"imageurl": "https://i.imgur.com/Lpu2G7F.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "VIP info",
+				"imageurl": "https://i.imgur.com/Ol25erS.png",
 				"content": [
 					{
 						"title": "",
@@ -70,7 +81,7 @@
 				"url": "https://discord.gg/gZDdCRy2Su"
 			},
 			{
-				"text": "SHOP",
+				"text": "Need Dino?",
 				"url": "https://omegaparadise.tip4serv.com/"
 			}
 		],
