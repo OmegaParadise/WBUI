@@ -55,18 +55,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Web-Shop",
-				"imageurl": "https://i.imgur.com/XJ4vxIl.png",
-				"content": [
-					{
-						"title": "",
-						"text": ""
-					}
-				]
-			},
-			{
-				"layout": 1,
-				"buttontext": "VIP info",
-				"imageurl": "https://i.imgur.com/Ol25erS.png",
+				"imageurl": "https://i.imgur.com/14FUzuN.png",
 				"content": [
 					{
 						"title": "",
@@ -82,7 +71,7 @@
 			},
 			{
 				"text": "Need Dino?",
-				"url": "https://omegaparadise.tip4serv.com/"
+				"url": "https://primalparadise.tip4serv.com/"
 			}
 		],
 		"version": 2
