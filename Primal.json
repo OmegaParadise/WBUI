@@ -5,7 +5,7 @@
 		{
 			"openbutton": 1,
 			"hideicon": true,
-			"hideiconafter": 300,
+			"hideiconafter": 150,
 			"iconurl": "https://i.imgur.com/VaRH9Xj.png",
 			"disableicontext": true,
 			"iconposition": 0,
@@ -18,7 +18,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Welcome",
-				"imageurl": "https://i.postimg.cc/pr8hFMXY/desc-blacklistdup.png",
+				"imageurl": "https://i.postimg.cc/PqyQ2MPB/omegap.png",
 				"content": [
 					{
 						"title": "",
