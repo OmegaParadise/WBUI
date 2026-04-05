@@ -12,13 +12,13 @@
 			"icontextcolor": 0,
 			"openonstart": true,
 			"openonstartonlynewplayers": false,
-			"updateinterval": 12
+			"updateinterval": 6
 		},
 		"tabs": [
 			{
 				"layout": 1,
 				"buttontext": "Welcome",
-				"imageurl": "https://i.postimg.cc/3x1MWVcw/easter3.png",
+				"imageurl": "https://i.postimg.cc/brCQtPWF/Easterday4.png",
 				"content": [
 					{
 						"title": "",
