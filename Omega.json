@@ -43,8 +43,8 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "Web-Shop",
-				"imageurl": "https://i.postimg.cc/Dfb4g5VV/Skaermbillede-2026-02-16-214340.png",
+				"buttontext": "Guide Stage 1",
+				"imageurl": "https://i.postimg.cc/bwShJ0g3/Primo-Guide-Stage-1.png",
 				"content": [
 					{
 						"title": "",
@@ -54,8 +54,19 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "VIP info",
-				"imageurl": "https://i.postimg.cc/9Fhf6v6T/vipfinal.png",
+				"buttontext": "Guide Stage 2",
+				"imageurl": "https://i.postimg.cc/cCJqNf68/Primo-Guide-Stage-2.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Guide Stage 3",
+				"imageurl": "https://i.postimg.cc/wjmCHqTY/Primo-Guide-Stage-3.png",
 				"content": [
 					{
 						"title": "",
