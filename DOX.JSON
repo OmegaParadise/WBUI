@@ -43,8 +43,8 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "Guide Stage 1",
-				"imageurl": "https://i.postimg.cc/bwShJ0g3/Primo-Guide-Stage-1.png",
+				"buttontext": "Start Smart",
+				"imageurl": "https://i.postimg.cc/3xLx2ccn/DOX2-Primordial-Style-01-Start-Smart.png",
 				"content": [
 					{
 						"title": "",
@@ -54,8 +54,8 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "Guide Stage 2",
-				"imageurl": "https://i.postimg.cc/cCJqNf68/Primo-Guide-Stage-2.png",
+				"buttontext": "Taming/Hunting XP",
+				"imageurl": "https://i.postimg.cc/RZPZwDDG/DOX2-Primordial-Style-02-Taming-Hunting-XP.png",
 				"content": [
 					{
 						"title": "",
@@ -65,8 +65,41 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "Guide Stage 3",
-				"imageurl": "https://i.postimg.cc/wjmCHqTY/Primo-Guide-Stage-3.png",
+				"buttontext": "Trait/Evolution",
+				"imageurl": "https://i.postimg.cc/DwCw1MMg/DOX2-Primordial-Style-03-Traits-Evolution.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "BOSS n DANNGERS",
+				"imageurl": "https://i.postimg.cc/mgdg755j/DOX2-Primordial-Style-04-Bosses-Danger.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Armor/Items Tips",
+				"imageurl": "https://i.postimg.cc/x1s1L44F/DOX2-Primordial-Style-05-Armor-Items-Tips.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "FAQ/CONTROLS",
+				"imageurl": "https://i.postimg.cc/9QxQynnk/DOX2-Primordial-Style-06-FAQ-Controls.png",
 				"content": [
 					{
 						"title": "",
